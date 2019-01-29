@@ -1,3 +1,3 @@
-fonction  multiplier ( a , b ) {
-    // TODO retour
+function multiply(a, b) {
+    return a * b
 };
