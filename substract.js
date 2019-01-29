@@ -1,3 +1,3 @@
-fonction  soustraire ( a , b ) {
-    // TODO retour
+function subtract(a, b) {
+    return a - b
 };
